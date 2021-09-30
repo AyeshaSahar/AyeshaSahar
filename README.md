@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"> <br>
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"> <br>
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> <br>
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"> <br>
+<img height="50" src = "https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png"> <br>
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> <br>
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/375px-Python_logo_and_wordmark.svg.png"> <br>
+<img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg"> <br>
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png">
 
  
