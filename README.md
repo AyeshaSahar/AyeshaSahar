@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### About me
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm a self-taught developer. <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by building and being consistent in what I do. <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I actually like C++ but not as much as I like python though😉<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> An aspiring full stack Web developer. <br>
@@ -38,6 +37,3 @@ Here are some ideas to get you started:
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"> <br>
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> <br>
 <img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg"> 
-
-
- 
