@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="230">
 
 ### About me
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I write articles about Python, C++ & Web Development to make your learning journey easier:)<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I write articles on Python, C++ & Web Development to make your learning journey easier :)<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by building and being consistent in what I do. <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I actually like C++ but not as much as I like python though😉<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> An aspiring full stack Web developer. <br>
