@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"> <br>
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> <br>
 <img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg"> <br>
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> 
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> <br>
+
+### GitHub Stats 😎
+![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaSahar&theme=jolly&show_icons=true)
+
