@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
+- [8 Reasons Why a Good Web Design is Important for Your Business](https://thecodingcompany.hashnode.dev/8-reasons-why-a-good-web-design-is-important-for-your-business)
+- [15 Useful JavaScript Array Methods You Might Not Be Using](https://thecodingcompany.hashnode.dev/15-useful-javascript-array-methods-you-might-not-be-using)
+- [The What, Why, When, and How of Storyboarding](https://thecodingcompany.hashnode.dev/the-what-why-when-and-how-of-storyboarding)
 - [My Journey In Becoming A Web Developer](https://thecodingcompany.hashnode.dev/my-journey-in-becoming-a-web-developer)
 - [Deceptive Patterns: A Must-Know Concept For UX Designers](https://thecodingcompany.hashnode.dev/deceptive-patterns-a-must-know-concept-for-ux-designers)
-- [How To Make A Responsive Complaint Form Using HTML, CSS, and Bootstrap](https://thecodingcompany.hashnode.dev/how-to-make-a-responsive-complaint-form-using-html-css-and-bootstrap)
-- [10 Useful HTML Attributes or Tags You Probably Don't Know](https://thecodingcompany.hashnode.dev/10-useful-html-attributes-or-tags-you-probably-dont-know)
-- [How I Styled My Hashnode Blog✨](https://thecodingcompany.hashnode.dev/how-i-styled-my-hashnode-blog)
 
 <br>
 
