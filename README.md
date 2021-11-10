@@ -39,9 +39,12 @@ Here are some ideas to get you started:
 <img height="50" src = "https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png"> 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"> 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-<img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg"> 
 <img height="70" src = "https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png"> 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> 
+<img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg"> 
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"> 
+<img height="60" src = "https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"> 
+<img height="35" src = "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pygame_logo.gif"> 
 
 <br>
 
