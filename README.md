@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
+- [8 Interesting Project Ideas for Web Developers](https://thecodingcompany.hashnode.dev/8-interesting-project-ideas-for-web-developers)
+- [Python String Methods Cheatsheet](https://thecodingcompany.hashnode.dev/python-string-methods-cheatsheet)
+- [10 FREE Resources to Learn Python](https://thecodingcompany.hashnode.dev/10-free-resources-to-learn-python)
 - [8 Reasons Why a Good Web Design is Important for Your Business](https://thecodingcompany.hashnode.dev/8-reasons-why-a-good-web-design-is-important-for-your-business)
 - [15 Useful JavaScript Array Methods You Might Not Be Using](https://thecodingcompany.hashnode.dev/15-useful-javascript-array-methods-you-might-not-be-using)
-- [The What, Why, When, and How of Storyboarding](https://thecodingcompany.hashnode.dev/the-what-why-when-and-how-of-storyboarding)
-- [My Journey In Becoming A Web Developer](https://thecodingcompany.hashnode.dev/my-journey-in-becoming-a-web-developer)
-- [Deceptive Patterns: A Must-Know Concept For UX Designers](https://thecodingcompany.hashnode.dev/deceptive-patterns-a-must-know-concept-for-ux-designers)
 
 <br>
 
