@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 - [Hashnode](https://thecodingcompany.hashnode.dev/)
 - [Twitter](https://twitter.com/IAyeshaSahar)
+- [Dev.to] (https://dev.to/iayeshasahar)
 
 <br>
 
