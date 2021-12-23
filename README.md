@@ -49,11 +49,6 @@ Here are some ideas to get you started:
 
 <br>
 
-## Languages 🤓
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSahar)](https://github.com/AyeshaSahar/github-readme-stats)
-
-<br>
-
 ## My Recent Blog posts ✍️
 
 - [A Deep Dive in UX Design - Here's How and What I learned](https://thecodingcompany.hashnode.dev/a-deep-dive-in-ux-design-heres-how-and-what-i-learned)
