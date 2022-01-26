@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - [10 FREE Resources To Get Started With Web Development](https://thecodingcompany.hashnode.dev/10-free-resources-to-get-started-with-web-development)
 - [8 Interesting Project Ideas for Web Developers](https://thecodingcompany.hashnode.dev/8-interesting-project-ideas-for-web-developers)
 - [10 FREE Resources to Learn Python](https://thecodingcompany.hashnode.dev/10-free-resources-to-learn-python)
-- [8 Reasons Why a Good Web Design is Important for Your Business](https://thecodingcompany.hashnode.dev/8-reasons-why-a-good-web-design-is-important-for-your-business)
+- [The Ultimate Linux Cheatsheet](https://thecodingcompany.hashnode.dev/the-ultimate-linux-cheatsheet)
 
 <br>
 
