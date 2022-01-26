@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 - [A Deep Dive in UX Design - Here's How and What I learned](https://thecodingcompany.hashnode.dev/a-deep-dive-in-ux-design-heres-how-and-what-i-learned)
 - [10 FREE Resources To Get Started With Web Development](https://thecodingcompany.hashnode.dev/10-free-resources-to-get-started-with-web-development)
-- [8 Interesting Project Ideas for Web Developers](https://thecodingcompany.hashnode.dev/8-interesting-project-ideas-for-web-developers)
+- [20+ Useful JavaScript Array Methods Cheatsheet](https://thecodingcompany.hashnode.dev/20-useful-javascript-array-methods-cheatsheet)
 - [Bypassing Captchas - the easy way ;)](https://thecodingcompany.hashnode.dev/bypassing-captchas-the-easy-way)
 - [The Ultimate Linux Cheatsheet](https://thecodingcompany.hashnode.dev/the-ultimate-linux-cheatsheet)
 
