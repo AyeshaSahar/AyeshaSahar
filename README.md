@@ -27,31 +27,39 @@ Here are some ideas to get you started:
 
 ## Connect with me ^_^ 
 
-- [Hashnode](https://thecodingcompany.hashnode.dev/)
-- [Twitter](https://twitter.com/IAyeshaSahar)
-- [Dev.to](https://dev.to/iayeshasahar)
+[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://thecodingcompany.hashnode.dev/)
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/IAyeshaSahar)
+[<img alt="DEV.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/iayeshasahar)
 
 <br>
 
 ## Tech Stack 🚀
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"> <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"> 
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> 
-<img height="50" src = "https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png"> 
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"> 
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-<img height="70" src = "https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png"> 
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> 
-<img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg"> 
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"> 
-<img height="60" src = "https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"> 
-<img height="35" src = "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pygame_logo.gif"> 
+<br>
+
+## Tools I Use ✨
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 <br>
 
 ## My Recent Blog posts ✍️
 
-- [A Deep Dive in UX Design - Here's How and What I learned](https://thecodingcompany.hashnode.dev/a-deep-dive-in-ux-design-heres-how-and-what-i-learned)
+- [How to make a custom file upload button with HTML, CSS, and JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-custom-file-upload-button-with-html-css-and-javascript)
 - [Introducing my first eBook: "Be The Terminal Boss"](https://thecodingcompany.hashnode.dev/introducing-my-first-ebook-be-the-terminal-boss)
 - [20+ Useful JavaScript Array Methods Cheatsheet](https://thecodingcompany.hashnode.dev/20-useful-javascript-array-methods-cheatsheet)
 - [Bypassing Captchas - the easy way ;)](https://thecodingcompany.hashnode.dev/bypassing-captchas-the-easy-way)
@@ -61,4 +69,3 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats 😎
 ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaSahar&theme=cobalt&show_icons=true)
-
