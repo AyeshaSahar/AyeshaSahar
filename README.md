@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
+- [A Complete Guide to Python Dictionaries for Beginners](https://thecodingcompany.hashnode.dev/a-complete-guide-to-python-dictionaries-for-beginners)
 - [How to make a custom file upload button with HTML, CSS, and JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-custom-file-upload-button-with-html-css-and-javascript)
 - [Introducing my first eBook: "Be The Terminal Boss"](https://thecodingcompany.hashnode.dev/introducing-my-first-ebook-be-the-terminal-boss)
 - [20+ Useful JavaScript Array Methods Cheatsheet](https://thecodingcompany.hashnode.dev/20-useful-javascript-array-methods-cheatsheet)
 - [Bypassing Captchas - the easy way ;)](https://thecodingcompany.hashnode.dev/bypassing-captchas-the-easy-way)
-- [The Ultimate Linux Cheatsheet](https://thecodingcompany.hashnode.dev/the-ultimate-linux-cheatsheet)
 
 <br>
 
