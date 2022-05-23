@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyeshaSahar&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadexe" /> </p>
+
 ## Connect with me ^_^ 
 
 [<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://thecodingcompany.hashnode.dev/)
