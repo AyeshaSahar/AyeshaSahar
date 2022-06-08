@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
+- [A Simple Guide to Gestalt Principles In UI/UX Design](https://thecodingcompany.hashnode.dev/a-simple-guide-to-gestalt-principles-in-uiux-design)
+- [Adding Custom Code to your Editor X Website](https://thecodingcompany.hashnode.dev/adding-custom-code-to-your-editor-x-website)
 - [How to make a fully responsive website without HTML, CSS, or JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-fully-responsive-website-without-html-css-or-javascript)
 - [Design Principles To Achieve a Better UI/UX Design](https://thecodingcompany.hashnode.dev/design-principles-to-achieve-a-better-uiux-design)
 - [A Complete Guide to Python Dictionaries for Beginners](https://thecodingcompany.hashnode.dev/a-complete-guide-to-python-dictionaries-for-beginners)
-- [How to make a custom file upload button with HTML, CSS, and JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-custom-file-upload-button-with-html-css-and-javascript)
-- [Introducing my first eBook: "Be The Terminal Boss"](https://thecodingcompany.hashnode.dev/introducing-my-first-ebook-be-the-terminal-boss)
 
 <br>
 
