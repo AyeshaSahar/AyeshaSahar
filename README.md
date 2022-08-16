@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
+- [13 Income Ideas for Web Developers 💸✨](https://ayeshasahar.hashnode.dev/13-income-ideas-for-web-developers)
 - [Simplifying Closures in JavaScript](https://ayeshasahar.hashnode.dev/simplifying-closures-in-javascript)
 - [Everything you need to know about Parallelism, Threading, and Multi-threading in Python](https://ayeshasahar.hashnode.dev/everything-you-need-to-know-about-parallelism-threading-and-multi-threading-in-python)
 - [A Simple Guide to Gestalt Principles In UI/UX Design](https://ayeshasahar.hashnode.dev/a-simple-guide-to-gestalt-principles-in-uiux-design)
 - [Adding Custom Code to your Editor X Website](https://ayeshasahar.hashnode.dev/adding-custom-code-to-your-editor-x-website)
-- [How to make a fully responsive website without HTML, CSS, or JavaScript](https://ayeshasahar.hashnode.dev/how-to-make-a-fully-responsive-website-without-html-css-or-javascript)
 
 <br>
 
