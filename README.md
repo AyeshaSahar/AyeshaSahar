@@ -83,6 +83,9 @@ Here are some ideas to get you started:
 
 ## My Recent Youtube Videos 🤩
 
+- [What the hell is Supabase?](https://www.youtube.com/watch?v=syOnFdFC_5U)
+- [Basic Concepts of Object Oriented Programming - Urdu/Hindi](https://www.youtube.com/watch?v=hnC3d7jz260)
+- [Functional Programming vs Object Oriented Programming for Absolute Beginners](https://www.youtube.com/watch?v=_jqz4FAshco)
 - [7 Amazing No-code tools to make Responsive Websites - NO CODING REQUIRED!](https://www.youtube.com/watch?v=bKYv-mhMbjc)
 
 <br>
