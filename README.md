@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
+- [15 Useful Tips for Creating a User-friendly Interface](https://ayeshasahar.hashnode.dev/15-useful-tips-for-creating-a-user-friendly-interface)
 - [Let's talk NFTs👀](https://ayeshasahar.hashnode.dev/lets-talk-nfts)
 - [A Complete Guide on Technical Writing For Beginners](https://ayeshasahar.hashnode.dev/a-complete-guide-on-technical-writing-for-beginners)
 - [13 Income Ideas for Web Developers 💸✨](https://ayeshasahar.hashnode.dev/13-income-ideas-for-web-developers)
@@ -83,11 +84,12 @@ Here are some ideas to get you started:
 
 ## My Recent Youtube Videos 🤩
 
+- [Constructors in C++ - Urdu/Hindi](https://www.youtube.com/watch?v=WTfUaqKuCx4)
+- [What the hell is WunderGraph?](https://www.youtube.com/watch?v=m42WCNX5aEY)
+- [Implementation of Classes, Objects & Methods in C++ - Urdu/Hindi](https://www.youtube.com/watch?v=qu7yih1kZfk)
 - [What the hell is Supabase?](https://www.youtube.com/watch?v=syOnFdFC_5U)
 - [Basic Concepts of Object Oriented Programming - Urdu/Hindi](https://www.youtube.com/watch?v=hnC3d7jz260)
-- [Functional Programming vs Object Oriented Programming for Absolute Beginners](https://www.youtube.com/watch?v=_jqz4FAshco)
-- [7 Amazing No-code tools to make Responsive Websites - NO CODING REQUIRED!](https://www.youtube.com/watch?v=bKYv-mhMbjc)
-
+- 
 <br>
 
 ## My GitHub Stats 😎
