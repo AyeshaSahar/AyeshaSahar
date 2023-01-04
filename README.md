@@ -84,6 +84,7 @@ Here are some ideas to get you started:
 
 ## My Recent Youtube Videos 🤩
 
+- [What the Hell is GraphQL?](https://www.youtube.com/watch?v=Gj3W6QKMaI4)
 - [Constructors in C++ - Urdu/Hindi](https://www.youtube.com/watch?v=WTfUaqKuCx4)
 - [What the hell is WunderGraph?](https://www.youtube.com/watch?v=m42WCNX5aEY)
 - [Implementation of Classes, Objects & Methods in C++ - Urdu/Hindi](https://www.youtube.com/watch?v=qu7yih1kZfk)
