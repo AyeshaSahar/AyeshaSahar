@@ -73,10 +73,9 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
+- [Const vs Var vs Let: When and where to use them?](https://ayeshasahar.hashnode.dev/const-vs-var-vs-let-when-and-where-to-use-them)
 - [15 Useful Tips for Creating a User-friendly Interface](https://ayeshasahar.hashnode.dev/15-useful-tips-for-creating-a-user-friendly-interface)
-- [Let's talk NFTs👀](https://ayeshasahar.hashnode.dev/lets-talk-nfts)
 - [A Complete Guide on Technical Writing For Beginners](https://ayeshasahar.hashnode.dev/a-complete-guide-on-technical-writing-for-beginners)
-- [13 Income Ideas for Web Developers 💸✨](https://ayeshasahar.hashnode.dev/13-income-ideas-for-web-developers)
 - [Simplifying Closures in JavaScript](https://ayeshasahar.hashnode.dev/simplifying-closures-in-javascript)
 - [Everything you need to know about Parallelism, Threading, and Multi-threading in Python](https://ayeshasahar.hashnode.dev/everything-you-need-to-know-about-parallelism-threading-and-multi-threading-in-python)
 
