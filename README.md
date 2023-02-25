@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
+- [Debugging JavaScript Like a Pro: Tools and Techniques for Finding and Fixing Bugs](https://ayeshasahar.hashnode.dev/debugging-javascript-like-a-pro-tools-and-techniques-for-finding-and-fixing-bugs)
 - [Const vs Var vs Let: When and where to use them?](https://ayeshasahar.hashnode.dev/const-vs-var-vs-let-when-and-where-to-use-them)
 - [15 Useful Tips for Creating a User-friendly Interface](https://ayeshasahar.hashnode.dev/15-useful-tips-for-creating-a-user-friendly-interface)
-- [A Complete Guide on Technical Writing For Beginners](https://ayeshasahar.hashnode.dev/a-complete-guide-on-technical-writing-for-beginners)
 - [Simplifying Closures in JavaScript](https://ayeshasahar.hashnode.dev/simplifying-closures-in-javascript)
 - [Everything you need to know about Parallelism, Threading, and Multi-threading in Python](https://ayeshasahar.hashnode.dev/everything-you-need-to-know-about-parallelism-threading-and-multi-threading-in-python)
 
@@ -83,11 +83,12 @@ Here are some ideas to get you started:
 
 ## My Recent Youtube Videos 🤩
 
-- [What the Hell is GraphQL?](https://www.youtube.com/watch?v=Gj3W6QKMaI4)
+- [Linux vs Windows for Bioinformatics: Which OS Reigns Supreme?](https://www.youtube.com/watch?v=d7Ed_WNWlfk)
+- [Abstraction in C++: A Comprehensive Guide for Beginners - Urdu/Hindi](https://www.youtube.com/watch?v=CMWfZnitj2Y)
+- [Polymorphism, it's types and how to implement it in C++ - Urdu/Hindi](https://www.youtube.com/watch?v=JcFyhcQkjMk)
+- [Demystifying Encapsulation with Implementation in C++ - Urdu/Hindi](https://www.youtube.com/watch?v=DjLGiKrnc2E)
 - [Constructors in C++ - Urdu/Hindi](https://www.youtube.com/watch?v=WTfUaqKuCx4)
-- [What the hell is WunderGraph?](https://www.youtube.com/watch?v=m42WCNX5aEY)
 - [Implementation of Classes, Objects & Methods in C++ - Urdu/Hindi](https://www.youtube.com/watch?v=qu7yih1kZfk)
-- [What the hell is Supabase?](https://www.youtube.com/watch?v=syOnFdFC_5U)
 - [Basic Concepts of Object Oriented Programming - Urdu/Hindi](https://www.youtube.com/watch?v=hnC3d7jz260)
 
 <br>
